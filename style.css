@@ -1,0 +1,100 @@
+p {
+  font-family:  sans-serif;
+  font-style: normal;
+  font-weight: 1000px; 
+  font-size: large;
+
+}
+h1 {
+  
+  font-family:  sans-serif;
+
+ font-style: normal;
+  font-weight: 1000px; 
+font-size: 40px;
+color:blue;
+ text-shadow: 4px 5px 4px gray;
+
+}
+
+.body {
+  background-color: black; 
+text-align: center;
+  margin: auto;
+
+}
+
+.hum {
+  background-color:aliceblue; 
+  padding: 10px;
+  border: 2px solid;
+  width: 420px; 
+  text-align: center;
+  margin-left: 330px;
+  height: 550px;
+
+}
+.box{
+width: 300px;
+height: 270px;
+border: 30px solid white;
+border-radius: 8px; 
+background-color: white;
+box-shadow:  2px 5px 6px 2px  lightgray;
+  margin-top: 0%;
+  line-height: 25%;
+  margin-left: 40px;
+
+
+
+}
+.muh{
+    width: 310px;
+  
+   height:40px;
+padding-top: 5px;
+padding-right: 0px;
+padding-left: 0px;
+margin-top: -30px;
+margin-bottom: 30px;
+
+border:2px solid lightgray ;
+border-radius: 5px;
+
+font-family: sans-serif;
+font-size: 15px;
+
+
+}
+.login{
+   color:white;
+  border: 10px solid blue;
+  width: 295px;
+  height: 23px;
+  background-color:blue;
+padding-top: 10px;
+  border-radius: 6px;
+  font-family:  sans-serif;
+  font-style: normal;
+  margin-top: -16px;
+
+}
+.wo{
+    color:blue;
+    text-decoration: none;
+    line-height: 100%;
+    border-radius: 5px;
+
+}
+.page{
+
+  color:white;
+  border: 2px solid darkgreen;
+  background-color: darkgreen;
+margin-bottom: -10px;
+  border-radius: 4px;
+}
+.j{
+  font-family:  sans-serif;
+  font-size: 13px;
+}
